@@ -51,16 +51,6 @@ m = num / den
 c = Y_mean - m*X_mean
 
 print (m, c)
-## Output :
-![Output](https://github.com/naramala-niharika/Univariate-Linear-Regression/blob/main/jupyter%201.PNG?raw=true)
-
-## Program
-```
-Program for Univariate linear regression using the least squares method.
-
-Developed by: N.Niharika
-RegisterNumber: 21500912
-```
 Y_pred = m*X + c
 
 print (Y_pred)
@@ -70,6 +60,10 @@ plt.scatter(X,Y, color = "red")
 plt.plot(X,Y_pred,color ="green")
 
 plt.show()
+
+## Output :
+![Output](https://github.com/naramala-niharika/Univariate-Linear-Regression/blob/main/jupyter%201.PNG?raw=true)
+
 ## Output:
 ![Output](https://github.com/naramala-niharika/Univariate-Linear-Regression/blob/main/jupyter%202.PNG?raw=true)
 
