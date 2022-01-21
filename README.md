@@ -52,7 +52,7 @@ c = Y_mean - m*X_mean
 
 print (m, c)
 ## Output :
-![Output]()
+![Output](https://github.com/naramala-niharika/Univariate-Linear-Regression/blob/main/jupyter%201.PNG?raw=true)
 
 ## Program
 ```
@@ -71,7 +71,7 @@ plt.plot(X,Y_pred,color ="green")
 
 plt.show()
 ## Output:
-![Output]()
+![Output](https://github.com/naramala-niharika/Univariate-Linear-Regression/blob/main/jupyter%202.PNG?raw=true)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
